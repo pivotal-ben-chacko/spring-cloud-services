@@ -9,4 +9,4 @@ Config Server Demo
 3. cf update-service config-server -c '{"git": {"uri": "https://github.com/pivotal-ben-chacko/spring-cloud-services.git"}}'
 4. Wait for creation of service
 5. From root directory run 'cf push'
-6. Now if you browse to the following endpoint you should see a greeting, http://<app route>/hi
+6. Now if you browse to the following endpoint you should see a greeting, http://APP-ROUTE/hi
