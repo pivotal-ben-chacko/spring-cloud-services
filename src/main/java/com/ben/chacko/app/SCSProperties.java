@@ -12,7 +12,7 @@ public class SCSProperties {
 		return userName;
 	}
 
-	public void setTestData(String testData) {
-		this.userName = testData;
+	public void setTestData(String userName) {
+		this.userName = userName;
 	}
 }
