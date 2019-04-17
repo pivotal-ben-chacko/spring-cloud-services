@@ -1,5 +1,5 @@
-# spring-cloud-services
-## Pivotal Spring Cloud Services Demo ##
+# Spring Cloud Services
+### Pivotal Spring Cloud Services Demo 
 
 Clone the repository
 
